@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/01/19 10:01:18.000.500,=C:\Users\tokyo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/15 22:46:17.000.297,=C:\Users\tokyo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/04 09:58:35.000.331,=C:\Users\tokyo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/06/13 00:06:33.000.510,=C:\Users\tokyo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/30 19:32:39.000.723,=C:\Users\tokyo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/30 19:37:17.000.442,C:\Fontes\GCS_Consultar_Preco\Consultar_Preco.dfm=C:\Users\tokyo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/07/30 19:37:17.000.442,C:\Fontes\GCS_Consultar_Preco\Consultar_Preco.pas=C:\Users\tokyo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/30 19:37:53.000.754,C:\Fontes\GCS_Consultar_Preco\Consultar_Preço.dproj=C:\Users\tokyo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
